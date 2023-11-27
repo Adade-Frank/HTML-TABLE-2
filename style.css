@@ -1,0 +1,17 @@
+table {
+    font-family: sans-serif; 
+    border-style: solid;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    }
+  tr:nth-child(even) {
+    font-family: sans-serif;
+    background-color: whitesmoke;
+  }
+th,td{
+ font-family: sans-serif;
+ border-style: solid;
+ border: 4px solid whitesmoke;
+ padding-top: 20px;
+}
